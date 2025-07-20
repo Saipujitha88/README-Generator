@@ -1,0 +1,117 @@
+{
+    "sha": "4bcec421bfe8a9be2d2b19a0ff9819b3d18fbcb4",
+    "url": "https://api.github.com/repos/narlapavan26/Optimizing-Doctor-Availability-and-Appointment-Allocation-in-Hospital/git/trees/4bcec421bfe8a9be2d2b19a0ff9819b3d18fbcb4",
+    "tree": [
+        {
+            "path": "Doctor Availability",
+            "mode": "040000",
+            "type": "tree",
+            "sha": "8eb14252b67a4bfbcdea0512c15a8f4c56133df2",
+            "url": "https://api.github.com/repos/narlapavan26/Optimizing-Doctor-Availability-and-Appointment-Allocation-in-Hospital/git/trees/8eb14252b67a4bfbcdea0512c15a8f4c56133df2"
+        },
+        {
+            "path": "Doctor Availability/KaggleV2-May-2016.csv",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "e2c25db7b8119703ee30859c94a3faefc308da5c",
+            "size": 10739535,
+            "url": "https://api.github.com/repos/narlapavan26/Optimizing-Doctor-Availability-and-Appointment-Allocation-in-Hospital/git/blobs/e2c25db7b8119703ee30859c94a3faefc308da5c"
+        },
+        {
+            "path": "Doctor Availability/README.md",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+            "size": 0,
+            "url": "https://api.github.com/repos/narlapavan26/Optimizing-Doctor-Availability-and-Appointment-Allocation-in-Hospital/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+        },
+        {
+            "path": "Doctor Availability/app.py",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "1534aea327b1c2961065dffb1cbdee4d4f1b2e98",
+            "size": 1437,
+            "url": "https://api.github.com/repos/narlapavan26/Optimizing-Doctor-Availability-and-Appointment-Allocation-in-Hospital/git/blobs/1534aea327b1c2961065dffb1cbdee4d4f1b2e98"
+        },
+        {
+            "path": "Doctor Availability/data.csv",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "e2c25db7b8119703ee30859c94a3faefc308da5c",
+            "size": 10739535,
+            "url": "https://api.github.com/repos/narlapavan26/Optimizing-Doctor-Availability-and-Appointment-Allocation-in-Hospital/git/blobs/e2c25db7b8119703ee30859c94a3faefc308da5c"
+        },
+        {
+            "path": "Doctor Availability/main.py",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "1457f18ca2e8dcfce229394c16893c5ce2ca6178",
+            "size": 103,
+            "url": "https://api.github.com/repos/narlapavan26/Optimizing-Doctor-Availability-and-Appointment-Allocation-in-Hospital/git/blobs/1457f18ca2e8dcfce229394c16893c5ce2ca6178"
+        },
+        {
+            "path": "Doctor Availability/miniproject_modified.ipynb",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "4ebbe3e2336c6e7c2125138e1b6d2fb5a16a34ac",
+            "size": 808236,
+            "url": "https://api.github.com/repos/narlapavan26/Optimizing-Doctor-Availability-and-Appointment-Allocation-in-Hospital/git/blobs/4ebbe3e2336c6e7c2125138e1b6d2fb5a16a34ac"
+        },
+        {
+            "path": "Doctor Availability/pyproject.toml",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "346096be86fe4caeb8c423f2ab32aa3822448a73",
+            "size": 239,
+            "url": "https://api.github.com/repos/narlapavan26/Optimizing-Doctor-Availability-and-Appointment-Allocation-in-Hospital/git/blobs/346096be86fe4caeb8c423f2ab32aa3822448a73"
+        },
+        {
+            "path": "Doctor Availability/requirements.txt",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "a0c0348fba21eb0becdd0af857b59ee67412e868",
+            "size": 50,
+            "url": "https://api.github.com/repos/narlapavan26/Optimizing-Doctor-Availability-and-Appointment-Allocation-in-Hospital/git/blobs/a0c0348fba21eb0becdd0af857b59ee67412e868"
+        },
+        {
+            "path": "Doctor Availability/svm_model.pkl",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "2b0a02438ef1bf9b2033c114ebd07375000571de",
+            "size": 2815309,
+            "url": "https://api.github.com/repos/narlapavan26/Optimizing-Doctor-Availability-and-Appointment-Allocation-in-Hospital/git/blobs/2b0a02438ef1bf9b2033c114ebd07375000571de"
+        },
+        {
+            "path": "Doctor Availability/templates",
+            "mode": "040000",
+            "type": "tree",
+            "sha": "cca54bd05e6a05e0121124fdb6e6beece80f7883",
+            "url": "https://api.github.com/repos/narlapavan26/Optimizing-Doctor-Availability-and-Appointment-Allocation-in-Hospital/git/trees/cca54bd05e6a05e0121124fdb6e6beece80f7883"
+        },
+        {
+            "path": "Doctor Availability/templates/index.html",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "df0bf22385c3d2a1ab20f1a5656107720c0ea757",
+            "size": 3328,
+            "url": "https://api.github.com/repos/narlapavan26/Optimizing-Doctor-Availability-and-Appointment-Allocation-in-Hospital/git/blobs/df0bf22385c3d2a1ab20f1a5656107720c0ea757"
+        },
+        {
+            "path": "Doctor Availability/uv.lock",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "e0dcaeba065cd5b0ac27e9bf04718fe173f9f779",
+            "size": 30769,
+            "url": "https://api.github.com/repos/narlapavan26/Optimizing-Doctor-Availability-and-Appointment-Allocation-in-Hospital/git/blobs/e0dcaeba065cd5b0ac27e9bf04718fe173f9f779"
+        },
+        {
+            "path": "README.md",
+            "mode": "100644",
+            "type": "blob",
+            "sha": "3b07780fee6311d529e9ca904a51a1ff612068a0",
+            "size": 2326,
+            "url": "https://api.github.com/repos/narlapavan26/Optimizing-Doctor-Availability-and-Appointment-Allocation-in-Hospital/git/blobs/3b07780fee6311d529e9ca904a51a1ff612068a0"
+        }
+    ],
+    "truncated": false
+}

@@ -1,0 +1,48 @@
+{
+  "author": "narlapavan26",
+  "repo_name": "Optimizing-Doctor-Availability-and-Appointment-Allocation-in-Hospital",
+  "tree": [
+    {
+      "path": "Doctor Availability"
+    },
+    {
+      "path": "Doctor Availability/KaggleV2-May-2016.csv"
+    },
+    {
+      "path": "Doctor Availability/README.md"
+    },
+    {
+      "path": "Doctor Availability/app.py"
+    },
+    {
+      "path": "Doctor Availability/data.csv"
+    },
+    {
+      "path": "Doctor Availability/main.py"
+    },
+    {
+      "path": "Doctor Availability/miniproject_modified.ipynb"
+    },
+    {
+      "path": "Doctor Availability/pyproject.toml"
+    },
+    {
+      "path": "Doctor Availability/requirements.txt"
+    },
+    {
+      "path": "Doctor Availability/svm_model.pkl"
+    },
+    {
+      "path": "Doctor Availability/templates"
+    },
+    {
+      "path": "Doctor Availability/templates/index.html"
+    },
+    {
+      "path": "Doctor Availability/uv.lock"
+    },
+    {
+      "path": "README.md"
+    }
+  ]
+}
